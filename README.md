@@ -79,16 +79,17 @@ Postorder Traversal:
 AVL.addNode(30);
 AVL.addNode(20);
 AVL.addNode(40);
-AVL.addNode(10); // triggers rotation
+AVL.addNode(10);
+AVL.addNode(5) // triggers rotation
 
 System.out.println("Inorder Traversal (balanced):");
-AVL.inOrderTraversal(); // 10 20 30 40
+AVL.inOrderTraversal();
 ```
 Output:
 ```
 Is imposible to add 30 to an empty tree, creating tree...
 Inorder Traversal (balanced):
-10 20 30 4
+5 10 20 30 40
 ```
 - **B-Trees**
 ```java
